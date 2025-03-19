@@ -36,4 +36,5 @@ If an invalid amount is entered, an error message is displayed.
 If currency data fails to load, a fallback mechanism prevents application crashes.
 
 ## Video Presentation of the Project
-[![Video anschauen](https://youtu.be/RFrEcv4FfpI)]
+[![Video anschauen](https://img.youtube.com/vi/RFrEcv4FfpI/0.jpg)](https://www.youtube.com/watch?v=RFrEcv4FfpI)
+
